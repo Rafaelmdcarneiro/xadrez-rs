@@ -1,0 +1,7 @@
+[package]
+name = "xadrez_rust"
+version = "1.0"
+edition = "2025"
+
+[dependencies]
+ggez = "0.9.3"
